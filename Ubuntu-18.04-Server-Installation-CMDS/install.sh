@@ -4,7 +4,7 @@ wget http://bit.ly/newacn -O new
 wget http://bit.ly/startacn -O start
 wget http://bit.ly/stopacn -O stop
 wget http://bit.ly/restartacn -O restart
-wget http://bit.ly/restartxacn -O restartx
+wget http://bit.ly/restartxanc -O restartx
 wget http://bit.ly/setupacn
 chmod 0777 start
 chmod 0777 new
