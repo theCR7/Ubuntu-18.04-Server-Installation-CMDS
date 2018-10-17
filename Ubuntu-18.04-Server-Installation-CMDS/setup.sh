@@ -8,12 +8,12 @@ mv ~/BombSquad_Server_Linux_64bit_1.4.145.tar.gz ~/$foldername.tar.gz
 tar xvzf $foldername.tar.gz
 mv ~/BombSquad_Server_Linux_64bit_1.4.145 ~/$foldername
 rm -f $foldername.tar.gz
-wget http://bit.ly/newtmx -O new
-wget http://bit.ly/starttmx -O start
-wget http://bit.ly/stoptmx -O stop
-wget http://bit.ly/installtmx
-wget http://bit.ly/restarttmx -O restart
-wget http://bit.ly/restartxtmx -O restartx
+wget http://bit.ly/newacn -O new
+wget http://bit.ly/startacn -O start
+wget http://bit.ly/stopacn -O stop
+wget http://bit.ly/installacn
+wget http://bit.ly/restartacn -O restart
+wget http://bit.ly/restartxacn -O restartx
 chmod 0777 start
 chmod 0777 new
 chmod 0777 installtmx
