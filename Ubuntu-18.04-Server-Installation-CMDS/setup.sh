@@ -13,7 +13,7 @@ wget http://bit.ly/startacn -O start
 wget http://bit.ly/stopacn -O stop
 wget http://bit.ly/installacn
 wget http://bit.ly/restartacn -O restart
-wget http://bit.ly/restartxacn -O restartx
+wget http://bit.ly/restartxanc -O restartx
 chmod 0777 start
 chmod 0777 new
 chmod 0777 installtmx
