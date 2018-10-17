@@ -1,11 +1,11 @@
 #!/bin/bash
 cd ~
-wget http://bit.ly/newtmx -O new
-wget http://bit.ly/starttmx -O start
-wget http://bit.ly/stoptmx -O stop
-wget http://bit.ly/restarttmx -O restart
-wget http://bit.ly/restartxtmx -O restartx
-wget http://bit.ly/setuptmx
+wget http://bit.ly/newacn -O new
+wget http://bit.ly/startacn -O start
+wget http://bit.ly/stopacn -O stop
+wget http://bit.ly/restartacn -O restart
+wget http://bit.ly/restartxacn -O restartx
+wget http://bit.ly/setupacn
 chmod 0777 start
 chmod 0777 new
 chmod 0777 installtmx
