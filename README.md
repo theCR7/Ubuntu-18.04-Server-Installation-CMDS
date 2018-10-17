@@ -6,7 +6,7 @@ Installation Procedure-
 => For setting a new server based on ubuntu 18.04
 
 1. Open PuTTY and run the following command :-
-wget bit.ly/setuptcx;sudo sh setuptcx
+ wget bit.ly/setuptcx;sudo sh setuptcx
 		
 2. Wait until it sets up for you. Enter the name of the Server folder, you want to keep, when prompted.
 
