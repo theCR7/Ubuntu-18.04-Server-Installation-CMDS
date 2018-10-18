@@ -8,12 +8,12 @@ mv ~/BombSquad_Server_Linux_64bit_1.4.145.tar.gz ~/$foldername.tar.gz
 tar xvzf $foldername.tar.gz
 mv ~/BombSquad_Server_Linux_64bit_1.4.145 ~/$foldername
 rm -f $foldername.tar.gz
-wget http://bit.ly/newacn -O new
-wget http://bit.ly/startacn -O start
-wget http://bit.ly/stopacn -O stop
+wget https://raw.githubusercontent.com/theCR7/Ubuntu-18.04-Server-Installation-CMDS/master/Ubuntu-18.04-Server-Installation-CMDS/new.sh -O new
+wget https://raw.githubusercontent.com/theCR7/Ubuntu-18.04-Server-Installation-CMDS/master/Ubuntu-18.04-Server-Installation-CMDS/start.sh -O start
+wget https://raw.githubusercontent.com/theCR7/Ubuntu-18.04-Server-Installation-CMDS/master/Ubuntu-18.04-Server-Installation-CMDS/stop.sh -O stop
 wget http://bit.ly/installacn
-wget http://bit.ly/restartacn -O restart
-wget http://bit.ly/restartxanc -O restartx
+wget https://raw.githubusercontent.com/theCR7/Ubuntu-18.04-Server-Installation-CMDS/master/Ubuntu-18.04-Server-Installation-CMDS/restart.sh -O restart
+wget https://raw.githubusercontent.com/theCR7/Ubuntu-18.04-Server-Installation-CMDS/master/Ubuntu-18.04-Server-Installation-CMDS/restartxacn.sh -O restartx
 chmod 0777 start
 chmod 0777 new
 chmod 0777 installacn
