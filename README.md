@@ -6,7 +6,7 @@ Installation Procedure-
 	=> For setting a completely new server!
 
 	1. Open PuTTY and run the following command : 
-           wget bit.ly/setupacn;sudo sh setuptmx
+           wget bit.ly/setupacn;sudo sh setupacn
 			
 	2. Wait until it sets up your server. Enter the name of the Server folder, you want to keep, when prompted.
 	
@@ -19,9 +19,9 @@ How to use-
 
 	We have the following commands to be used, just type them in PuTTY as any normal command(Note the tmx after every command to make it NOT conflict with pre-existing commands):
 	
-	1. setuptmx
+	1. setupacn
 		This command is executed when you ran the previous command to set a new server, so practically you will never need this.
-	2. installtmx
+	2. installacn
 		This command is executed when you ran the previous command to set an old server, so practically you will never need this.
 	3. new
 		If you want a new port in your server then run this command and name the folder. You can then edit the 'bombsquad_server' to specify your settings.
