@@ -17,7 +17,7 @@ Installation Procedure-
 	
 How to use-
 
-	We have the following commands to be used, just type them in PuTTY as any normal command(Note the tmx after every command to make it NOT conflict with pre-existing commands):
+	We have the following commands to be used, just type them in PuTTY as any normal command(Note the acn after every command to make it NOT conflict with pre-existing commands):
 	
 	1. setupacn
 		This command is executed when you ran the previous command to set a new server, so practically you will never need this.
@@ -26,7 +26,7 @@ How to use-
 	3. new
 		If you want a new port in your server then run this command and name the folder. You can then edit the 'bombsquad_server' to specify your settings.
 	4. start
-		This command is used to start a server(if not running) or restart a server(if running).Once you run this command it will ask you for the folder name of the server you want to run. Make sure the folder is in /root directory. (If you used my commands like setuptmx or newtmx then the folder is by default in /root so no need to worry)
+		This command is used to start a server(if not running) or restart a server(if running).Once you run this command it will ask you for the folder name of the server you want to run. Make sure the folder is in /root directory. (If you used my commands like setupacn or newacn then the folder is by default in /root so no need to worry)
 	5. stop
 		This command is used to stop the specified server port. Just provide the name of the folder you want to stop. Type all if you want all servers to be closed.
 	6. restart
