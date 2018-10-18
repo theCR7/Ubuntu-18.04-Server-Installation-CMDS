@@ -6,7 +6,7 @@ Installation Procedure-
 	=> For setting a completely new server!
 
 	1. Open PuTTY and run the following command : 
-           wget bit.ly/2QXFbnL;sudo sh setuptmx
+           wget bit.ly/setupacn;sudo sh setuptmx
 			
 	2. Wait until it sets up your server. Enter the name of the Server folder, you want to keep, when prompted.
 	
