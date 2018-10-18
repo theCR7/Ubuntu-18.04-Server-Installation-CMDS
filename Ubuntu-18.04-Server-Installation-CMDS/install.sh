@@ -26,7 +26,7 @@ sudo cp restartx /usr/bin/
 sudo cp installacn /usr/bin/
 sudo cp stop /usr/bin/
 sudo cp new /usr/bin/
-sudo cp setuptmx /usr/bin/
+sudo cp setupacn /usr/bin/
 rm -f stop
 rm -f start
 rm -f installacn
